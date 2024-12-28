@@ -1,6 +1,6 @@
 ### NAME:  RISHIVARMAN<br>
 ### REG NO:  24900419
-# Uploading temperature sensor data in Thing Speak cloud
+# EXPERIMENT 3:Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -44,7 +44,9 @@ Step7 Check your ThingSpeak channel to verify that the sensor value has been upd
 
 Internet of Things (IoT) describes an emerging trend where a large number of embedded devices (things) are connected to the Internet. These connected devices communicate with people and other things and often provide sensor data to cloud storage and cloud computing resources where the data is processed and analyzed to gain important insights. Cheap cloud computing power and increased device connectivity is enabling this trend.IoT solutions are built for many vertical applications such as environmental monitoring and control, health monitoring, vehicle fleet monitoring, industrial monitoring and control, and home automation
 
-![image](https://user-images.githubusercontent.com/71547910/235334044-c01d4261-d46f-4f62-b07f-72a7b6fce5d5.png)
+<img src="https://user-images.githubusercontent.com/71547910/235334044-c01d4261-d46f-4f62-b07f-72a7b6fce5d5.png"
+ width="700"
+     height="500"/>
 
 ### Sending Data to Cloud with ESP32 and ThingSpeak
 
@@ -52,7 +54,9 @@ ThingSpeak is an Internet of Things (IoT) analytics platform that allows users t
 
 ### What is ThingSpeak?
 
-![image](https://user-images.githubusercontent.com/71547910/235333909-29d2e831-9fe5-4afd-b18d-f1e5d2e32518.png)
+<img src="https://user-images.githubusercontent.com/71547910/235333909-29d2e831-9fe5-4afd-b18d-f1e5d2e32518.png"
+ width="700"
+     height="500"/>
 
 It is an open data platform for IoT (Internet of Things). ThingSpeak is a web service operated by MathWorks where we can send sensor readings/data to the cloud. We can also visualize and act on the data (calculate the data) posted by the devices to ThingSpeak. The data can be stored in either private or public channels.ThingSpeak is frequently used for internet of things prototyping and proof of concept systems that require analytics.
 
@@ -135,10 +139,14 @@ void loop()
 ```
 
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/abf32cef-12c9-4b91-9af7-af3bca94e715)
+<img src="https://github.com/user-attachments/assets/abf32cef-12c9-4b91-9af7-af3bca94e715"
+ width="700"
+     height="500"/>
 
 # OUTPUT:
-![398681928-751a5a62-54ef-4d2e-a04c-d889c8f61db7](https://github.com/user-attachments/assets/415f66a6-1a57-4cd7-ae65-f8b7f530d747)
+<img src="https://github.com/user-attachments/assets/415f66a6-1a57-4cd7-ae65-f8b7f530d747"
+ width="700"
+     height="500"/>
 ![398681949-e928adde-8541-43ee-9be9-1f1d1db5e2f6](https://github.com/user-attachments/assets/a7a8ba54-bf56-40a7-a224-5ea513c8a2c3)
 
 
